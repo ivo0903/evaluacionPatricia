@@ -1,0 +1,5 @@
+hola profe Alan, le cuento que hay cosas que no me funcionaron,como por ejemplo las sombras de los botones que se quedan pegadas al dar click.
+las imagenes no alcance a arreglarlas mejor.
+separe los css de cada página,trate de seguir el pratron 7.1, pero creo que no funciono mucho😁😁.
+y en el archivo de javascrip, la validacion la copie de boostrap( para que no creo que se hacerlo 100% bien), el recibir los datos lo hice y lo entendí.
+eso, gracias... ah! y disculpe lo tarde de la entrega.

@@ -1,0 +1,31 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Kalam:wght@300;400;700&family=Pacifico&display=swap');
+
+
+
+
+
+
+:root{
+    --primary-color-800:#603f26 ;
+    --primary-color-600:#bbab8c ;
+    --primary-color-400:#ded0b6 ;
+    --primary-color-200:#faeed1 ;
+
+    --secondary-color-900:#254336;
+    --secondary-color-600:#808d7c;
+    --secondary-color-500:#80af81;
+    --secondary-color-400:#9ca986;
+    --secondary-color-300:#c9dabf;
+    
+    --neutral-color-ligt: #fdf7e4;
+    --neutral-color-dark:#271203; 
+
+    --font-title:Kalam, Verdana, Sans-serif;
+    
+    font-size:18px;
+}
+
+
+

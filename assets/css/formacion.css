@@ -1,0 +1,64 @@
+
+/*formacion*/
+ul{
+    list-style: none;
+}
+.card-formacion{
+    box-shadow: var(--neutral-color-ligt) 5px 5px;
+    width: 30%;
+    height: auto;
+    margin: 1rem;
+
+}
+.card-formacion h5{
+    font-size: 1.5rem;
+    align-items: center;
+    display: flex;
+    justify-content: center; 
+    color: var(--neutral-color-dark);
+    
+}
+#estudios{
+background-color: var(--primary-color-400);
+
+}
+
+#tecnicas, #tabla-habilidades{
+    background-color: var(--secondary-color-300);
+}
+
+#habilidades{
+    background-color: var(--primary-color-400);   
+}
+
+.card-formacion img{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center; 
+}
+
+.imagen-texto {
+    width: 5rem;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+} 
+#tabla-habilidades,#tabla-habilidades-blandas{
+    margin: 2rem;
+    
+}
+.habilidades-duras img, .habilidades-blandas img{
+    width: 1.5rem; 
+    height: 1.5rem;
+    
+}
+.habilidades-duras,.habilidades-blandas{
+    color:var(--secondary-color-900);
+    font-weight: normal;
+    
+    
+} 
